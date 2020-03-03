@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"GitGutter",
+		"JSONLint",
+		"LSP",
+		"MarkdownLivePreview",
+		"Package Control",
+		"PowerShell",
+		"SublimeLinter",
+		"SublimeLinter-contrib-bashate",
+		"SublimeLinter-contrib-markdownlint",
+		"SublimeLinter-contrib-Powershell",
+		"SublimeLinter-contrib-terraform",
+		"SublimeLinter-contrib-yamllint",
+		"Terraform",
+		"Theme - Cobalt2"
+	]
+}
